@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBotsb4f439') # youtube song api ke
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/JaniRPLover/Jani-Music-Papa-Repo",
+    "https://github.com/JaniPrivetRepo/Jani-Repo",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -84,10 +84,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/u15ml3.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/h1z7dr.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/u15ml3.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/h1z7dr.jpg"
 )
 PLAYLIST_IMG_URL = "https://files.catbox.moe/pfjgmf.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/st6utj.jpg"
